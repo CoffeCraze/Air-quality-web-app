@@ -1,3 +1,4 @@
+@ -1,100 +0,0 @@
 # Air-quality-web-app
 ## 🌟 **Funcionalidades Principais**
 
